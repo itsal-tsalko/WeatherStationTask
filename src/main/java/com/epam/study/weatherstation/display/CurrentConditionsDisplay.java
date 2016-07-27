@@ -1,6 +1,4 @@
-package weatheStation;
-
-import org.apache.log4j.Logger;
+package com.epam.study.weatherstation.display;
 
 /**
  * @author Iuliia Tsal-Tsalko
@@ -17,7 +15,7 @@ public class CurrentConditionsDisplay extends WeatherStationDisplay {
             temperature = weatherStation.get().getWeather().getTemperature();
             pressure = weatherStation.get().getWeather().getPressure();
         }
-        logger.info("Weather has been updated on current condition display");
+        logger.info("Weather has been updated on "+ CurrentConditionsDisplay.class.getSimpleName());
     }
 
     public String display() {

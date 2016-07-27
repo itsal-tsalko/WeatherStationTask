@@ -1,6 +1,7 @@
-package weatheStation;
+package com.epam.study.weatherstation.display;
 
 import org.apache.log4j.Logger;
+import com.epam.study.weatherstation.WeatherStation;
 
 import java.util.Optional;
 
@@ -9,7 +10,7 @@ import java.util.Optional;
  */
 public abstract class WeatherStationDisplay implements Display {
 
-    final static Logger logger =  Logger.getLogger(WeatherStationDisplay.class);
+    final static public Logger logger =  Logger.getLogger(WeatherStationDisplay.class);
 
     protected Optional<WeatherStation> weatherStation = Optional.empty();
 

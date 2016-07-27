@@ -1,6 +1,4 @@
-package weatheStation;
-
-import org.apache.log4j.Logger;
+package com.epam.study.weatherstation;
 
 /**
  * @author Iuliia Tsal-Tsalko

@@ -1,9 +1,8 @@
-package weatheStation;
+package com.epam.study.weatherstation.display;
 
-import org.apache.log4j.Logger;
+import com.epam.study.weatherstation.Weather;
 
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,7 +18,7 @@ public class StatisticsDisplay extends WeatherStationDisplay {
             WeatherSnapshot weatherSnapshot = new WeatherSnapshot(weatherStation.get().getWeather(), LocalDateTime.now());
             weatherSnapshots.add(weatherSnapshot);
         }
-        logger.info("Weather has been updated on statistic display");
+        logger.info("Weather has been updated on "+ StatisticsDisplay.class.getSimpleName());
     }
 
     public String display() {

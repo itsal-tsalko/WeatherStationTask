@@ -1,7 +1,13 @@
-package weatherStation;
+package com.epam.study.weatherstation;
 
+import com.epam.study.weatherstation.DisplayManager;
+import com.epam.study.weatherstation.WeatherStation;
 import org.junit.Test;
 import weatheStation.*;
+import com.epam.study.weatherstation.display.CurrentConditionsDisplay;
+import com.epam.study.weatherstation.display.ForecastDisplay;
+import com.epam.study.weatherstation.display.StatisticsDisplay;
+import com.epam.study.weatherstation.Weather;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

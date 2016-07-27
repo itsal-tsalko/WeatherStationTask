@@ -1,5 +1,6 @@
-package weatheStation;
+package com.epam.study.weatherstation;
 
+import com.epam.study.weatherstation.display.Display;
 import org.apache.log4j.Logger;
 
 import java.util.ArrayList;

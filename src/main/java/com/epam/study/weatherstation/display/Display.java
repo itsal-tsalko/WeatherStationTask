@@ -1,4 +1,6 @@
-package weatheStation;
+package com.epam.study.weatherstation.display;
+
+import com.epam.study.weatherstation.WeatherStation;
 
 /**
  * @author Iuliia Tsal-Tsalko

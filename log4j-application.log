@@ -1,0 +1,14 @@
+2016-07-27 22:14:56 INFO  DisplayManager:15 - ForecastDisplay has been connected to weather station
+2016-07-27 22:14:56 INFO  WeatherStationDisplay:24 - Weather has been updated on ForecastDisplay display
+2016-07-27 22:14:56 INFO  WeatherStation:28 - Weather has been updated
+2016-07-27 22:14:56 INFO  DisplayManager:21 - ForecastDisplay has been disconnected from weather station
+2016-07-27 22:14:56 INFO  DisplayManager:15 - StatisticsDisplay has been connected to weather station
+2016-07-27 22:14:57 INFO  WeatherStationDisplay:22 - Weather has been updated on StatisticsDisplay display
+2016-07-27 22:14:57 INFO  WeatherStation:28 - Weather has been updated
+2016-07-27 22:14:57 INFO  WeatherStationDisplay:22 - Weather has been updated on StatisticsDisplay display
+2016-07-27 22:14:57 INFO  WeatherStation:28 - Weather has been updated
+2016-07-27 22:14:57 INFO  DisplayManager:21 - StatisticsDisplay has been disconnected from weather station
+2016-07-27 22:14:57 INFO  DisplayManager:15 - CurrentConditionsDisplay has been connected to weather station
+2016-07-27 22:14:57 INFO  WeatherStationDisplay:20 - Weather has been updated on CurrentConditionsDisplay display
+2016-07-27 22:14:57 INFO  WeatherStation:28 - Weather has been updated
+2016-07-27 22:14:57 INFO  DisplayManager:21 - CurrentConditionsDisplay has been disconnected from weather station
