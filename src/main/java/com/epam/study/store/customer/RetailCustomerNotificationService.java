@@ -20,7 +20,7 @@ public class RetailCustomerNotificationService implements CustomerNotificationSe
     private AdvertisementSender sender;
 
     public RetailCustomerNotificationService(Store store, AdvertisementSender sender) {
-        store.connect(this);
+        store.addCustomerNotificationServices(this);
         this.sender = sender;
     }
 

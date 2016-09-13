@@ -1,0 +1,92 @@
+2016-09-05 21:27:41 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-05 21:27:41 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-05 21:27:41 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-05 21:27:41 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-05 21:27:41 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-05 21:27:41 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-05 21:27:41 INFO  WeatherStation:27 - Weather has been updated
+2016-09-05 21:27:46 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-05 21:27:46 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-05 21:27:46 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-05 21:27:46 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-05 21:27:46 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-05 21:27:46 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-05 21:27:46 INFO  WeatherStation:27 - Weather has been updated
+2016-09-05 21:27:55 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-05 21:27:55 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-05 21:27:55 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-05 21:27:55 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-05 21:27:55 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-05 21:27:55 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-05 21:27:55 INFO  WeatherStation:27 - Weather has been updated
+2016-09-08 21:39:20 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-08 21:39:20 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-08 21:39:20 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-08 21:39:20 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-08 21:39:20 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-08 21:39:20 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-08 21:39:20 INFO  WeatherStation:27 - Weather has been updated
+2016-09-08 21:40:48 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-08 21:40:48 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-08 21:40:48 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-08 21:40:48 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-08 21:40:48 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-08 21:40:48 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-08 21:40:48 INFO  WeatherStation:27 - Weather has been updated
+2016-09-13 21:09:35 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:09:35 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:09:35 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:34:16 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:34:16 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:34:16 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:34:16 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-13 21:34:16 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-13 21:34:16 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-13 21:34:16 INFO  WeatherStation:27 - Weather has been updated
+2016-09-13 21:35:37 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:35:37 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:35:37 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:35:37 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-13 21:35:37 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-13 21:35:37 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-13 21:35:37 INFO  WeatherStation:27 - Weather has been updated
+2016-09-13 21:40:01 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:40:01 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:40:01 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:40:01 INFO  TopicsAggregator:32 - User Oleg has received news - [Item{type=SPORT, size='M', count=10}, Item{type=CLOTHES, size='XL', count=15}]
+2016-09-13 21:40:01 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-13 21:40:01 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-13 21:40:01 INFO  TopicsAggregator:32 - User Iuliia has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:40:01 INFO  TopicsAggregator:32 - User Oleg has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:40:01 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-13 21:40:01 INFO  WeatherStation:27 - Weather has been updated
+2016-09-13 21:47:32 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:47:32 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:47:32 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:47:32 INFO  TopicsAggregator:32 - User Oleg has received news - [Item{type=SPORT, size='M', count=10}, Item{type=CLOTHES, size='XL', count=15}]
+2016-09-13 21:47:32 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-13 21:47:32 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-13 21:47:32 INFO  TopicsAggregator:32 - User Iuliia has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:47:32 INFO  TopicsAggregator:32 - User Oleg has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:47:32 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-13 21:47:32 INFO  WeatherStation:27 - Weather has been updated
+2016-09-13 21:50:05 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:50:05 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:50:05 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:50:05 INFO  TopicsAggregator:32 - User Oleg has received news - [Item{type=SPORT, size='M', count=10}, Item{type=CLOTHES, size='XL', count=15}]
+2016-09-13 21:50:05 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-13 21:50:05 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-13 21:50:05 INFO  TopicsAggregator:32 - User Iuliia has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:50:05 INFO  TopicsAggregator:32 - User Oleg has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:50:05 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-13 21:50:05 INFO  WeatherStation:27 - Weather has been updated
+2016-09-13 21:55:03 INFO  TopicsAggregator:27 - Iuliia has been subscribered to news on WEATHER
+2016-09-13 21:55:03 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on STORE
+2016-09-13 21:55:03 INFO  TopicsAggregator:27 - Oleg has been subscribered to news on WEATHER
+2016-09-13 21:55:03 INFO  TopicsAggregator:32 - User Oleg has received news - [Item{type=SPORT, size='M', count=10}, Item{type=CLOTHES, size='XL', count=15}]
+2016-09-13 21:55:03 INFO  StoreAdaptor:28 - Published news regarding items added to store
+2016-09-13 21:55:03 INFO  Store:59 - Advertisements has been sent to all customers
+2016-09-13 21:55:03 INFO  TopicsAggregator:32 - User Iuliia has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:55:03 INFO  TopicsAggregator:32 - User Oleg has received news - Weather{temperature=25.0, humidity=66.0, pressure=99.0}
+2016-09-13 21:55:03 INFO  WeatherAdaptor:27 - Published news regarding weather update
+2016-09-13 21:55:03 INFO  WeatherStation:27 - Weather has been updated

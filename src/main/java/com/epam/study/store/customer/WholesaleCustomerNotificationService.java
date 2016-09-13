@@ -21,7 +21,7 @@ public class WholesaleCustomerNotificationService implements CustomerNotificatio
     private AdvertisementSender sender;
 
     public WholesaleCustomerNotificationService(Store store, AdvertisementSender sender) {
-        store.connect(this);
+        store.addCustomerNotificationServices(this);
         this.sender = sender;
     }
 
